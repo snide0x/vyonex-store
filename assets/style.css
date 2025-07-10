@@ -1,0 +1,24 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  background: linear-gradient(90deg, #ff2d55, #5ac8fa);
+  padding: 2rem 1rem;
+}
+main {
+  margin-top: 2rem;
+}
+.cta-button {
+  background: #007aff;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
